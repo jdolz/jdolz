@@ -30,4 +30,4 @@ I :call_me_hand: FullStack Development!
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![jdolz's github stats](https://github-readme-stats.vercel.app/api?username=jdolz&show_icons=true)
+![jdolz's github stats](https://github-readme-stats.vercel.app/api?username=jdolz&show_icons=true) 
