@@ -23,7 +23,7 @@ I :call_me_hand: FullStack Development!
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-%231572B6?style=flat-square&logo=mysql&logoColor=ffffff&labelColor=2374af&color=2374af)
-![MongoDB](https://img.shields.io/badge/-mongoDB-%231572B6?style=flat-square&logo=mongodb&labelColor=ffffff&color=ffffff)
+![MongoDB](https://img.shields.io/badge/-mongoDB-%231572B6?style=flat-square&logo=mongodb&labelColor=f1f1f1&color=f1f1f1)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
