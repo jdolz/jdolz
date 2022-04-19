@@ -4,9 +4,9 @@
 [![](https://img.shields.io/twitter/url?label=Email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Aj.dolz6549%40gmail.com)](mailto:j.dolz6549@gmail.com)
 [![](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjdolzm)](https://linkedin.com/in/jdolzm)
 
-I :call_me_hand: FullStack Development!
+I :call_me_hand: Software Development!
 
-:computer: Junior FullStack Developer
+:computer: Junior Software Developer
 
 ## My Tech Stack
 
