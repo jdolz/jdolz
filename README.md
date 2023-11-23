@@ -6,7 +6,7 @@
 
 I :call_me_hand: Software Development!
 
-:computer: Junior Software Developer
+:computer: Software Developer
 
 ## My Tech Stack
 
